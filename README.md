@@ -11,7 +11,7 @@ Welcome to Color Splash - the revolutionary software that brings new life to you
 *Nowadays, image colorization is usually done by hand in Photoshop. Many institutions use image colorization services for assigning colors to grayscale historic images. There is also for colorization purposes in the documentation image. However, using Photoshop for this purpose requires more energy and time. One solution to this problem is to use machine learning / deep learning techniques.*
 
 ** Model **
-Download the model from this link:
+Download the model through this link:
 https://mega.nz/file/tzIyAJZK#l1_iOPulwOApQ2SKBgjyZVtuTFgIX6HOZgnewG4NldM
 
 **OUR PRODUCT:**
