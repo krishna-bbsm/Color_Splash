@@ -19,7 +19,7 @@ https://mega.nz/file/tzIyAJZK#l1_iOPulwOApQ2SKBgjyZVtuTFgIX6HOZgnewG4NldM
 **IMPLEMENTATION:**
 
 *1)	Load the input image from disk, scale the pixel intensities to the range [0, 1], and then convert the image from the BGR to Lab color space*
-
+ 
 *2)	Resize the Lab image to 224x224 (the dimensions the colorization network accepts), split channels, extract the 'L' channel, and then perform mean centering*
 
 *3)	Pass the L channel through the network which will predict the 'a' and 'b' channel values*
