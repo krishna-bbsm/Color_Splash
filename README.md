@@ -10,11 +10,15 @@ Welcome to Color Splash - the revolutionary software that brings new life to you
  
 *Nowadays, image colorization is usually done by hand in Photoshop. Many institutions use image colorization services for assigning colors to grayscale historic images. There is also for colorization purposes in the documentation image. However, using Photoshop for this purpose requires more energy and time. One solution to this problem is to use machine learning / deep learning techniques.*
 
+** Model **
+Download the model from the below link:
+https://mega.nz/file/tzIyAJZK#l1_iOPulwOApQ2SKBgjyZVtuTFgIX6HOZgnewG4NldM
+
 **OUR PRODUCT:**
 
 *We have developed a software with minimal user interface using python and its libraries , that converts b/w images to its best possible colorized image. We use cv2, models implemented with Tensorflow , pysimpleGUI, numpy for this project.*
 
-**CORE IMPLEMENTATION:**
+**IMPLEMENTATION:**
 
 *1)	load the input image from disk, scale the pixel intensities to the range [0, 1], and then convert the image from the BGR to Lab color space*
 
