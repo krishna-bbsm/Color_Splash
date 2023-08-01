@@ -2,7 +2,7 @@
 Welcome to Color Splash - the revolutionary software that brings new life to your vintage memories. With our advanced deep learning technology, you can now transform your black and white photos into vivid, full-color masterpieces in just a few clicks
 
 
-# *COLOR Splash - 'Revive your old memories'*
+# *COLOR Splash - 'Infusing life into grayscale images with Deep leanring'*
 
 **INTRODUCTION:**
  
